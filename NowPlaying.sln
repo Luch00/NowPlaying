@@ -8,7 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{884C50A6-8721-4DFF-A6A9-03E5B9B9C7FA}"
 	ProjectSection(SolutionItems) = preProject
 		NowPlaying\bin\Release\NowPlaying.exe = NowPlaying\bin\Release\NowPlaying.exe
-		release.txt = release.txt
 	EndProjectSection
 EndProject
 Global
