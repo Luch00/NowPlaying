@@ -6,3 +6,5 @@ and write it to a text file.
 
 Made this for Osu! (enable messenger integration in options) but also works with players like Winamp and Foobar
 if plugins that enable this functionality is installed.
+
+[Download](https://github.com/Luch00/NowPlaying/raw/master/Release/NowPlaying.exe)
