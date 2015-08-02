@@ -9,7 +9,6 @@
 # Build results
 
 [Dd]ebug/
-[Rr]elease/
 x64/
 build/
 [Bb]in/
@@ -154,3 +153,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/Release/NowPlaying.vshost.exe.manifest
+/Release/NowPlaying.vshost.exe.config
+/Release/NowPlaying.vshost.exe
+/Release/NowPlaying.exe.config
