@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NowPlaying", "NowPlaying\NowPlaying.csproj", "{B749C01D-0E58-4678-B149-937B3DBB3B13}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{74301521-EF4F-4378-A47F-6F60226C7BB4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{884C50A6-8721-4DFF-A6A9-03E5B9B9C7FA}"
 	ProjectSection(SolutionItems) = preProject
 		NowPlaying\bin\Release\NowPlaying.exe = NowPlaying\bin\Release\NowPlaying.exe
 	EndProjectSection
